@@ -1,1 +1,2 @@
-/ 100
+30 / 100
+checksyscall -10 part1 25 part2 15 part3 0
