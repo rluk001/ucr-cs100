@@ -1,13 +1,2 @@
 60 / 100
 checksyscall -10 part1 25 part2 15 part3 0
-#####################################
-#
-# gradetmp/ucr-cs100-rluk001/assignments/hw/hw2-piping//grade
-#
-# name      = Ryan Luk
-# csaccount = rluk001
-# github    = rluk001
-#
-# any line that begins with a # is a comment and won't be written to the file
-#
-#####################################
